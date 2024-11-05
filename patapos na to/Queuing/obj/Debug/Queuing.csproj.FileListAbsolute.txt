@@ -1,0 +1,149 @@
+C:\Users\CLIENT\Desktop\Queuing\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\CLIENT\Desktop\Queuing\Queuing\bin\Debug\Queuing.exe
+C:\Users\CLIENT\Desktop\Queuing\Queuing\bin\Debug\Queuing.pdb
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.exe
+C:\Users\CLIENT\Desktop\Queuing\Queuing\obj\Debug\Queuing.pdb
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.exe
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.pdb
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\Queuing.exe
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\Queuing.pdb
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\MySql.Data.dll
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\System.Memory.dll
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\Wilbert Tan\College files\capstone\Queuing\Queuing\obj\Debug\Queuing.csproj.CopyComplete
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\System.Memory.dll
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.csproj.CopyComplete
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.CustomerView.resources
+C:\Users\santo\OneDrive\Desktop\Queuing\Queuing\obj\Debug\Queuing.CashierControllerForm.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.CustomerView.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.CashierControllerForm.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\System.Memory.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.csproj.Up2Date
+C:\Users\santo\OneDrive\Desktop\New folder (3)\Queuing1\Queuing\obj\Debug\Queuing.StatsForm.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\System.Memory.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.CustomerView.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.CashierControllerForm.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.StatsForm.resources
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.csproj.Up2Date
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\New folder (3)\eto pa ung ginagawa q\Queuing\obj\Debug\Queuing.pdb
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.CustomerView.resources
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.CashierControllerForm.resources
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.StatsForm.resources
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.exe
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.pdb
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\Queuing.exe
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\Queuing.pdb
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\MySql.Data.dll
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\System.Memory.dll
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\Wilbert Tan\OneDrive\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.CopyComplete
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\System.Memory.dll
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.CustomerView.resources
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.CashierControllerForm.resources
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.StatsForm.resources
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.csproj.Up2Date
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.exe
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.pdb
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\Queuing.exe.manifest
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\bin\Debug\Queuing.application
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.exe.manifest
+C:\Users\santo\OneDrive\Desktop\CAPSTONE\patapos na to\Queuing\obj\Debug\Queuing.application
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\Queuing.exe.manifest
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\Queuing.application
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\Queuing.exe
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\Queuing.pdb
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\System.Memory.dll
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\System.Buffers.dll
+C:\Users\santo\Desktop\patapos na to\Queuing\bin\Debug\MySql.Data.xml
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.CustomerView.resources
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.Form1.resources
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.CashierControllerForm.resources
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.StatsForm.resources
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.exe.manifest
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.application
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.csproj.Up2Date
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.exe
+C:\Users\santo\Desktop\patapos na to\Queuing\obj\Debug\Queuing.pdb
